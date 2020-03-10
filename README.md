@@ -4,7 +4,7 @@ Make sure you have [composer](https://getcomposer.org) installed.
 
 Require the package
 ```bash
-composer require --prefer-dist avangdev/avang-api-php dev-master
+composer require --prefer-dist avangdev/avang-php-sendemail-api dev-master
 ``` 
 
 #### PHP Versions
