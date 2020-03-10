@@ -9,7 +9,7 @@ use AvangPhpApi\Base as AvangPhpApiBase;
 
 /**
  * Class Base
- * @package LeaderSend\Test
+ * @package AvangPhpApi\Test
  */
 class Base extends TestCase {
 
