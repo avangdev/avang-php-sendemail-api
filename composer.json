@@ -1,7 +1,7 @@
 {
     "name": "avangdev/avang-php-sendemail-api",
     "type": "library",
-    "description": "AvangEmail API-PHP",
+    "description": "PHP API for send Email. Easily send outgoing email",
     "keywords": ["AvangEmail"],
     "homepage": "https://www.avangemail.com",
     "autoload": {
