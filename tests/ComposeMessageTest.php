@@ -152,7 +152,7 @@ class ComposeMessageTest extends Base {
         $this->_composeMessage->to('webus.us@gmail.com');
         $this->_composeMessage->from('admin@webus.us');
         $this->_composeMessage->sender('admin@webus.us');
-        $this->_composeMessage->subject('Test Message at' . date("F j, Y, g:i a"));
+        $this->_composeMessage->subject('Test Message at ' . date("F j, Y, g:i a"));
         $this->_composeMessage->tag('test email');
         $this->_composeMessage->replyTo('admin@webus.us');
         $this->_composeMessage->plainBody('This is a message to test the delivery of messages.');
